@@ -1,2 +1,2 @@
 # My-settings
-Algumas configurações para meus projetos.
+My development settings
